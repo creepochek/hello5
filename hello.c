@@ -37,8 +37,8 @@
 #include <linux/ktime.h>
 #include <linux/slab.h>
 
-MODULE_AUTHOR("Serhii Popovych <serhii.popovych@globallogic.com>");
-MODULE_DESCRIPTION("Hello, world in Linux Kernel Training");
+MODULE_AUTHOR("Oleksii Chyzhov <chyzhov.oleksii@lll.kpi.ua>");
+MODULE_DESCRIPTION("'Hello, world' module, Lab 5");
 MODULE_LICENSE("Dual BSD/GPL");
 
 static unsigned int hello_count = 1;
